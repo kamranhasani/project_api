@@ -1,5 +1,5 @@
-# Student project 
- insert - delete - select - update => api
+# insert - delete - select - update => api
+Student project 
 # Includes:
 php 7.0 -
 bootstrap -
