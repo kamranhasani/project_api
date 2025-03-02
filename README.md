@@ -1,4 +1,5 @@
-# insert - delete - select - update => api
+# insert - delete - select - update
+api _
 Student project 
 # Includes:
 php 7.0 -
